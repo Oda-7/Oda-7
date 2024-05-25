@@ -15,10 +15,10 @@ Toutes ces expériences m'ont naturellement conduit à suivre une formation de D
 Diplômé depuis peu, j'ai déjà réalisé plusieurs projets en testant différents langages de programmation (PHP, Java, JavaScript, Python, Solidity) et frameworks (Next.JS, React, Symfony, Nest.Js, Express, Spring Boot). Mon objectif est de me mettre constamment au défi en apprenant de nouvelles technologies, d'élargir mes compétences et de démontrer ma polyvalence pour répondre à une large palette de demandes dans le domaine du développement.
 
 Parmi mes réalisations, je peux citer :
+- Une API Restful pour traiter des données sur une application web et mobile pour une application de nounou.
+- Un sudoku.
+- Des smart contract (cryptoZombie).
+- Une ERP pour une agence immobilière.
+- Un système de WebSocket.
 
-Une API Restful pour traiter des données sur une application web et mobile pour une application de nounou.
-Un sudoku.
-Des smart contract (cryptoZombie).
-Un ERP pour une agence immobilière.
-Un système de WebSocket.
 Mon but est de trouver un emploi dans ce domaine le plus rapidement possible afin de lui consacrer tout mon temps, ma motivation et ma passion. Je suis convaincu que je peux apporter une réelle valeur ajoutée à votre équipe et que je continuerai à développer mes compétences dans ce secteur en pleine évolution.
